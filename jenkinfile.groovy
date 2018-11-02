@@ -7,5 +7,7 @@ node {
 		}
 		
 		--changes 11/1/2018
+		
+		echo "Changes"
 	}
 }
