@@ -5,5 +5,7 @@ node {
 			sh "mvn clean install"
 
 		}
+		
+		--changes 11/1/2018
 	}
 }
